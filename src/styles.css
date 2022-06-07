@@ -1,0 +1,10 @@
+.WeatherApp {
+  font-family: "Arial";
+  text-align: left;
+  padding-left: 80px;
+  line-height: 30px;
+}
+
+h1 {
+  font-size: 48px;
+}
